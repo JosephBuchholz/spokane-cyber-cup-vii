@@ -9,8 +9,16 @@ For this event, I tried to leverge my technical abilities while also challenging
 
 I was part of a two person team. In terms of contribution, we were about equal with me scoring 7550 (21 challenges) and my teammate scoring 6637. In total we got 14187 points and placed in 22nd out of 47 teams (though there was a bit of a management mistake with the lower and upper divisions and thus we actually likely placed higher than that). Concidering that we were only a two person team and many other teams had 4 or 5 members, I think that we did quite well.
 
-![Score]("https://github.com/JosephBuchholz/spokane-cyber-cup-vii/blob/main/Screenshot 2026-02-07 190301.png?raw=true")
+![Score](Screenshot%202026-02-07%20190301.png)
 
-![Graph](Screenshot 2026-02-07 190351.png)
+![Graph](Screenshot%202026-02-07%20190351.png)
 
 Overall, I really enjoyed the event and had a good time trying to solve the challenges. If I could redo the event I would probably try tackling some of the more difficult, higher scoring challenges. In the end though, I think our team was quite successful and I learn quite bit.
+
+## More Pictures
+
+![Leader Board](Screenshot%202026-02-07%20161348.png)
+
+![Event Picture](20260207_165223.jpg)
+
+![Sticker](20260207_161441.jpg)
