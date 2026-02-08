@@ -15,6 +15,10 @@ I was part of a two person team. In terms of contribution, we were about equal w
 
 Overall, I really enjoyed the event and had a good time trying to solve the challenges. If I could redo the event I would probably try tackling some of the more difficult, higher scoring challenges. In the end though, I think our team was quite successful and I learn quite bit.
 
+## Code
+
+The code in this repo is just some very quick and dirty Python code to crack some of the cryptographic ciphers presented in a view of the challenges.
+
 ## More Pictures
 
 ![Leader Board](Screenshot%202026-02-07%20161348.png)
